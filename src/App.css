@@ -1,9 +1,11 @@
 .App {
-    background-color: #b2b2b2;
-    min-height: 100vh;   
-    justify-content: center;
-    display: flex;
-   
-    
-    
+  background-color: #b2b2b2;
+  width: 100%;
+  height: 2000px;
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+.App-teste {
 }
