@@ -1,5 +1,7 @@
+import styles from '../TableSchedule/tableSchedule.module.css'
+
 export function TableSchedule() {
     return (
-        <h1>TableSchedule</h1>
+        <div className={styles.container}>TableSchedule</div>
     )
 }
